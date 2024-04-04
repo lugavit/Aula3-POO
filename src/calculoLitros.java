@@ -22,6 +22,5 @@ public class calculoLitros {
         System.out.printf("Você viajou a um velocidade média de %d Km\n", velMedia);
         System.out.printf("Demorou %d horas para percorrer %d KM\n",tempoG,distPerc);
         System.out.printf("Utilizou %d litros de gasolina.",qtdLitros);
-
     }
 }
