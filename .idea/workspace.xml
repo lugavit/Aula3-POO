@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculoLitros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/somandoPossibilidades.java" afterDir="false" />
+    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="Fiz 2 dos Exercicios da aula 3 de POO">
+      <change afterPath="$PROJECT_DIR$/src/converterTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/declaracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parOuImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ebgB77u8G5Fw7zzZFu1IFu8VoY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,6 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.converterTemp.executor": "Run",
+    "Application.declaracao.executor": "Run",
+    "Application.parOuImpar.executor": "Run",
+    "Application.somandoPossibilidades.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -51,13 +52,36 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/lugav/IdeaProjects/Aula3/Aula3/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.parOuImpar">
+    <configuration name="converterTemp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converterTemp" />
+      <module name="Aula3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parOuImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parOuImpar" />
+      <module name="Aula3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.parOuImpar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -69,11 +93,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712178555177</updated>
-      <workItem from="1712178556214" duration="725000" />
+      <workItem from="1712178556214" duration="1495000" />
+      <workItem from="1712189775579" duration="480000" />
+      <workItem from="1712361062698" duration="51000" />
+      <workItem from="1712361205205" duration="7113000" />
     </task>
+    <task id="LOCAL-00001" summary="Fiz 2 dos Exercicios da aula 3 de POO">
+      <option name="closed" value="true" />
+      <created>1712189135580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712189135580</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fiz 2 dos Exercicios da aula 3 de POO">
+      <option name="closed" value="true" />
+      <created>1712189563250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712189563250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fiz 2 dos Exercicios da aula 3 de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fiz 2 dos Exercicios da aula 3 de POO" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
