@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="Fiz 3 dos Exercicios da aula 3 de POO" />
+    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="Readme">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bhaskara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indicePoluicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,19 +26,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lugavit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lugavit/Aula3-POO.git&quot;,
+    &quot;accountId&quot;: &quot;15b4e07a-9586-4063-8c76-0093eb0d46b9&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ebgB77u8G5Fw7zzZFu1IFu8VoY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.bhaskara.executor": "Run",
     "Application.converterTemp.executor": "Run",
     "Application.declaracao.executor": "Run",
+    "Application.indicePoluicao.executor": "Run",
     "Application.parOuImpar.executor": "Run",
     "Application.somandoPossibilidades.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -50,9 +76,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.parOuImpar">
+  <component name="RunManager">
     <configuration name="converterTemp" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="converterTemp" />
+      <module name="Aula3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="indicePoluicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indicePoluicao" />
       <module name="Aula3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.indicePoluicao" />
         <item itemvalue="Application.parOuImpar" />
       </list>
     </recent_temporary>
@@ -90,7 +124,8 @@
       <workItem from="1712178556214" duration="1495000" />
       <workItem from="1712189775579" duration="480000" />
       <workItem from="1712361062698" duration="51000" />
-      <workItem from="1712361205205" duration="7418000" />
+      <workItem from="1712361205205" duration="7749000" />
+      <workItem from="1712402044705" duration="9105000" />
     </task>
     <task id="LOCAL-00001" summary="Fiz 2 dos Exercicios da aula 3 de POO">
       <option name="closed" value="true" />
@@ -124,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712372395893</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Readme">
+      <option name="closed" value="true" />
+      <created>1712372621511</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712372621511</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,17 +184,6 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
             </State>
           </value>
         </entry>
@@ -159,9 +191,21 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fiz 2 dos Exercicios da aula 3 de POO" />
     <MESSAGE value="Fiz 3 dos Exercicios da aula 3 de POO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fiz 3 dos Exercicios da aula 3 de POO" />
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
