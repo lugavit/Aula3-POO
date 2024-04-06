@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="Fiz 2 dos Exercicios da aula 3 de POO">
-      <change afterPath="$PROJECT_DIR$/src/converterTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/declaracao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parOuImpar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="Fiz 3 dos Exercicios da aula 3 de POO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +90,7 @@
       <workItem from="1712178556214" duration="1495000" />
       <workItem from="1712189775579" duration="480000" />
       <workItem from="1712361062698" duration="51000" />
-      <workItem from="1712361205205" duration="7113000" />
+      <workItem from="1712361205205" duration="7418000" />
     </task>
     <task id="LOCAL-00001" summary="Fiz 2 dos Exercicios da aula 3 de POO">
       <option name="closed" value="true" />
@@ -114,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712189563250</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fiz 3 dos Exercicios da aula 3 de POO">
+      <option name="closed" value="true" />
+      <created>1712372252844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712372252844</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fiz 3 dos Exercicios da aula 3 de POO">
+      <option name="closed" value="true" />
+      <created>1712372395893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712372395893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +141,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -139,7 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fiz 2 dos Exercicios da aula 3 de POO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fiz 2 dos Exercicios da aula 3 de POO" />
+    <MESSAGE value="Fiz 3 dos Exercicios da aula 3 de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fiz 3 dos Exercicios da aula 3 de POO" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
