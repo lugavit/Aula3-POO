@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="Readme">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bhaskara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indicePoluicao.java" afterDir="false" />
+    <list default="true" id="962686a0-6453-4608-a7ce-cb7c82560c66" name="Changes" comment="+2 exercícios.">
+      <change afterPath="$PROJECT_DIR$/src/decifrarPseudocodigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qualTriangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raioCirculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +56,12 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.bhaskara.executor": "Run",
     "Application.converterTemp.executor": "Run",
+    "Application.decifrarPseudocodigo.executor": "Run",
     "Application.declaracao.executor": "Run",
     "Application.indicePoluicao.executor": "Run",
     "Application.parOuImpar.executor": "Run",
+    "Application.qualTriangulo.executor": "Run",
+    "Application.raioCirculo.executor": "Run",
     "Application.somandoPossibilidades.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -125,7 +127,9 @@
       <workItem from="1712189775579" duration="480000" />
       <workItem from="1712361062698" duration="51000" />
       <workItem from="1712361205205" duration="7749000" />
-      <workItem from="1712402044705" duration="9105000" />
+      <workItem from="1712402044705" duration="9210000" />
+      <workItem from="1712431999597" duration="1619000" />
+      <workItem from="1712445771922" duration="3584000" />
     </task>
     <task id="LOCAL-00001" summary="Fiz 2 dos Exercicios da aula 3 de POO">
       <option name="closed" value="true" />
@@ -167,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712372621511</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="+2 exercícios.">
+      <option name="closed" value="true" />
+      <created>1712426750921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712426750921</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +207,8 @@
     <MESSAGE value="Fiz 2 dos Exercicios da aula 3 de POO" />
     <MESSAGE value="Fiz 3 dos Exercicios da aula 3 de POO" />
     <MESSAGE value="Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
+    <MESSAGE value="+2 exercícios." />
+    <option name="LAST_COMMIT_MESSAGE" value="+2 exercícios." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
